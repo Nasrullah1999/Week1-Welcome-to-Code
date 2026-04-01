@@ -1,5 +1,5 @@
 let nama = "John" 
-let peran = 1 ;
+let peran = 3 ;
 
 
 console.log("Selamat datang di Dunia Proxytia, ");
